@@ -23,9 +23,9 @@ public class Launcher {
     
     
          Afficheur afficheur3 = new Afficheur(new CheckerMoreThan5(), new TransformerNoTransform());
-         afficheur2.afficher("3");
-         afficheur2.afficher("monTextea");
-         afficheur2.afficher("monTexte");
+         afficheur3.afficher("3");
+         afficheur3.afficher("monTextea");
+         afficheur3.afficher("monTexte");
     
      }
 }
